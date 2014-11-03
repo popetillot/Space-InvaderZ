@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿//je suis cachée dans ton code je t'espionne ._.
+
+using UnityEngine;
 using System.Collections;
 
 public class Bullet : MonoBehaviour {
